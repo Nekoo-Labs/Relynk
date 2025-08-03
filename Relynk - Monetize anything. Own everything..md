@@ -1,6 +1,6 @@
 # 🔗 Relynk - Web3 Creator Economy Platform
 
-**Tagline:** _"Create. Share. Get Paid. All Onchain."_
+**Tagline:** _"Monetize anything. Own everything. On-Chain"_
 
 A comprehensive Web3-native monetization platform that empowers creators, freelancers, and digital entrepreneurs to create payment links, sell digital products, and unlock content access — all without relying on Web2 platforms or centralized gatekeepers.
 
